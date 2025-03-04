@@ -8,7 +8,7 @@ API_KEY = "f846b26135aca746c4fdfcd3195a295b96e6027b"
 BASE_URL = "https://shrinkearn.com/api"
 
 # App title and description
-st.title("Shrink & Earn - Shorten Links, Save Time!")
+st.title("Shrink - Shorten Links, Save Time!")
 st.write("Paste your long URL below and get a short, shareable link instantly. Share it anywhere—social media, emails, or chats—and make every click count!")
 
 # Input field for the long URL
